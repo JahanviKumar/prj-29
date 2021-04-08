@@ -63,7 +63,7 @@ function preload(){
     text("Drag the Hexagonal Stone and Release it, to launch it towards the blocks",100,30);
     ground.display();
     stand1.display();
-    stand2.display();
+   
     strokeWeight(2);
     stroke(15);
     fill("skyblue");
